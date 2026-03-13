@@ -30,23 +30,23 @@ This project demonstrates how modern backend systems manage user authentication,
    (iii) bcrypt (password hashing)  
 
 ### Project Structure
-Authentication
-├── controllers
-│   └── authController.js
-│   └── otpController.js
-├── middleware
-│   └── authMiddleware.js
-├── routes
-│   └── authRoutes.js
-│   └── movieRoutes.js
-├── models
-│   └── userModel.js
-├── config
-│   └── db.js
-├── server.js
-├── package.json
-├── .gitignore
-└── README.md
+Authentication  
+├── controllers  
+│   └── authController.js  
+│   └── otpController.js  
+├── middleware  
+│   └── authMiddleware.js  
+├── routes  
+│   └── authRoutes.js  
+│   └── movieRoutes.js  
+├── models  
+│   └── userModel.js  
+├── config  
+│   └── db.js  
+├── server.js  
+├── package.json  
+├── .gitignore  
+└── README.md  
 
 ### Installation
 Clone the repository
