@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `user` MODIFY `token` VARCHAR(191) NULL,
+    MODIFY `otp` VARCHAR(191) NULL;
