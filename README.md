@@ -49,29 +49,29 @@ Authentication
 └── README.md  
 
 ### Installation
-Clone the repository
-`git clone https://github.com/hrithik41/Authentication.git`
-Go to project folder
-`cd Authentication`
-Install dependencies
-`npm install`
+Clone the repository  
+`git clone https://github.com/hrithik41/Authentication.git`  
+Go to project folder  
+`cd Authentication`  
+Install dependencies  
+`npm install`  
 
 ### Environment Variables
-Create a .env file in the root directory.
-Example:
-`PORT=3000
-JWT_SECRET=your_jwt_secret
-EMAIL_USER=your_email
-EMAIL_PASS=your_email_password
-DB_URI=your_database_url`
+Create a .env file in the root directory.  
+Example:  
+`PORT=3000  
+JWT_SECRET=your_jwt_secret  
+EMAIL_USER=your_email  
+EMAIL_PASS=your_email_password  
+DB_URI=your_database_url`  
 
 ### Run the Server
-Development mode
-`npm run dev`
+Development mode  
+`npm run dev`  
 
 ### Author
-**Hrithik Virendra Mishra**
-**Backend Developer**
+**Hrithik Virendra Mishra**  
+**Full Stack Developer**  
 
 ###GitHub
 + https://github.com/hrithik41
