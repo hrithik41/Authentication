@@ -15,16 +15,16 @@ This project demonstrates how modern backend systems manage user authentication,
 9. RESTful API Architecture
 
 ### Tech Stack
-####1. Backend
+1. Backend
    (i) Node.js
    (ii) Express.js
    (iii) Prisma
-####3. Authentication
+3. Authentication
    (i) JSON Web Token (JWT)
    (ii) OTP Verification
-####4. Database
+4. Database
    (i) SQL
-####5. Other Tools
+5. Other Tools
    (i) Nodemailer (for OTP emails)
    (ii) dotenv
    (iii) bcrypt (password hashing)
