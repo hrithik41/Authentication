@@ -58,12 +58,11 @@ Install dependencies
 
 ### Environment Variables
 Create a .env file in the root directory.  
-Example:  
-`PORT=3000`  
-`JWT_SECRET=your_jwt_secret`  
-`EMAIL_USER=your_email`  
-`EMAIL_PASS=your_email_password`  
-`DB_URI=your_database_url`  
+`PORT=3005`<br>
+`JWT_SECRET=your_jwt_secret`<br>
+`EMAIL_USER=your_email`<br>
+`EMAIL_PASS=your_email_password`<br>
+`DB_URI=your_database_url`<br>
 
 ### Run the Server
 Development mode  
