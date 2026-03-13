@@ -1,7 +1,7 @@
 import prisma from "../src/config/prisma.js";
 
 async function main() {
-    const EMAIL_ADDRESS = ["hrithikmishra9594@gmail.com", "hrithik.mishra@enpointe.io"]
+    const EMAIL_ADDRESS = ["EMAIL_ADDRESS"]
     const user = await prisma.user.deleteMany({
         where: {
             email: {
